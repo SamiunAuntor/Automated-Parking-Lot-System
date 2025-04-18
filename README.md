@@ -1,8 +1,5 @@
 # 🚗 Automated Parking Lot System
 
-**Project Assigned By:** Maliha Nowsin Raida  
-**Completed By:** Samiun Alim Auntor
-
 This Java-based console application simulates an automated parking lot management system. It uses object-oriented design, clean architecture, and efficient data structures (like min-heaps) to manage the parking of cars in the nearest available slots.
 
 ---
